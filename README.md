@@ -6,3 +6,4 @@ BSCS 2B
 LAB ACTIVITY 1
 July 4, 2000
 > First Commit
+<><><><><><><><><><><><><>
