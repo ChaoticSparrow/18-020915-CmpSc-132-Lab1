@@ -1,4 +1,4 @@
-Renzther James Barnido
+Renzther James "Baddo" Barnido
 BSCS 2B
 02/07/2020
 LAB ACTIVITY 1
